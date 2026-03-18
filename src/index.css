@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: 'DM Sans', sans-serif;
+  --font-display: 'Outfit', sans-serif;
+
+  /* Premium Corporate Real Estate Palette */
+  --color-background: hsl(210 20% 98%); /* Sophisticated off-white */
+  --color-foreground: hsl(222 47% 11%); /* Deep Navy Text */
+  
+  --color-card: hsl(0 0% 100%);
+  --color-card-foreground: hsl(222 47% 11%);
+  
+  --color-popover: hsl(0 0% 100%);
+  --color-popover-foreground: hsl(222 47% 11%);
+  
+  --color-primary: hsl(211 100% 35%); /* Strong Blue-Teal */
+  --color-primary-foreground: hsl(0 0% 100%);
+  
+  --color-secondary: hsl(210 40% 96%);
+  --color-secondary-foreground: hsl(222 47% 11%);
+  
+  --color-muted: hsl(214 32% 96%);
+  --color-muted-foreground: hsl(215 16% 47%);
+  
+  --color-accent: hsl(175 80% 35%); /* Teal Accent */
+  --color-accent-foreground: hsl(0 0% 100%);
+  
+  --color-destructive: hsl(0 84% 60%);
+  --color-destructive-foreground: hsl(0 0% 100%);
+  
+  --color-border: hsl(214 32% 91%);
+  --color-input: hsl(214 32% 91%);
+  --color-ring: hsl(211 100% 35%);
+  
+  --color-sidebar: hsl(222 47% 11%); /* Dark Navy Sidebar */
+  --color-sidebar-foreground: hsl(210 40% 98%);
+  --color-sidebar-accent: hsl(215 32% 17%);
+  --color-sidebar-accent-foreground: hsl(0 0% 100%);
+  --color-sidebar-border: hsl(215 32% 17%);
+
+  /* Scoring Colors */
+  --color-score-hot: hsl(350 89% 60%);
+  --color-score-high: hsl(35 92% 53%);
+  --color-score-medium: hsl(48 96% 53%);
+  --color-score-low: hsl(215 16% 47%);
+
+  --radius-sm: calc(0.5rem - 4px);
+  --radius-md: calc(0.5rem - 2px);
+  --radius-lg: 0.5rem;
+  --radius-xl: calc(0.5rem + 4px);
+  --radius-2xl: calc(0.5rem + 8px);
+}
+
+:root {
+  --background: 210 20% 98%;
+  --foreground: 222 47% 11%;
+  --primary: 211 100% 35%;
+  --primary-foreground: 0 0% 100%;
+  --border: 214 32% 91%;
+  --sidebar: 222 47% 11%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased font-sans selection:bg-primary/20 selection:text-primary;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply font-semibold tracking-tight;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}
+
+/* Utilities for visual flair */
+.glass-panel {
+  @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-xl;
+}
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent;
+}
+.hover-lift {
+  @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-lg;
+}

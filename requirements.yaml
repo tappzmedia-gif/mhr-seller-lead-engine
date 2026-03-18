@@ -1,0 +1,20 @@
+packages:
+  "framer-motion": "For premium page transitions, scroll reveals, and micro-interactions"
+  "recharts": "For the analytics dashboard charts (donut, bar, area)"
+  "date-fns": "For formatting dates in timelines, tables, and follow-ups"
+  "lucide-react": "For beautiful consistent iconography across the platform"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility to safely merge Tailwind CSS classes"
+
+images:
+  - path: "artifacts/lead-engine/public/images/hero-bg.png"
+    description: "High-end modern luxury house exterior at dusk with warm interior lighting, cinematic photography, Puerto Rico architecture style, dark wash overlay"
+    aspect_ratio: "16:9"
+  - path: "artifacts/lead-engine/public/images/logo.png"
+    description: "Minimalist premium real estate logo mark, monogram 'MH' in gold and navy blue, transparent background"
+    aspect_ratio: "1:1"
+
+notes:
+  - Application relies entirely on local in-memory mock data to simulate a fully wired backend.
+  - React Query is used with simulated delays to provide realistic loading states and cache invalidation.
+  - Wouter is used for routing.

@@ -1,0 +1,125 @@
+import type { ListingIconItem, AttributeCategoryKey } from './listing-types';
+
+export const ATTRIBUTE_CATEGORIES: { key: AttributeCategoryKey; label: string; iconName: string }[] = [
+  { key: 'general', label: 'General', iconName: 'Home' },
+  { key: 'utilities', label: 'Servicios', iconName: 'Zap' },
+  { key: 'appliances', label: 'Electrodomésticos', iconName: 'Refrigerator' },
+  { key: 'residential-amenities', label: 'Amenidades Residenciales', iconName: 'Sparkles' },
+  { key: 'rental-rules', label: 'Reglas de Alquiler', iconName: 'ScrollText' },
+  { key: 'commercial', label: 'Comercial', iconName: 'Building2' },
+  { key: 'land', label: 'Terreno / Solar', iconName: 'Mountain' },
+];
+
+export const PREDEFINED_ATTRIBUTES: ListingIconItem[] = [
+  { id: 'gen-furnished', label: 'Amueblada', iconName: 'Sofa', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-renovated', label: 'Renovada', iconName: 'Hammer', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-new-construction', label: 'Nueva construcción', iconName: 'HardHat', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-corner-unit', label: 'Esquinera', iconName: 'CornerDownRight', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-ocean-view', label: 'Vista al mar', iconName: 'Waves', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-mountain-view', label: 'Vista a la montaña', iconName: 'Mountain', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-gated', label: 'Urbanización cerrada', iconName: 'ShieldCheck', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-pet-friendly', label: 'Acepta mascotas', iconName: 'Dog', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-accessible', label: 'Accesible (ADA)', iconName: 'Accessibility', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-smart-home', label: 'Casa inteligente', iconName: 'Smartphone', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-storage', label: 'Almacén / Storage', iconName: 'Archive', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-laundry-room', label: 'Cuarto de lavado', iconName: 'WashingMachine', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-walk-in-closet', label: 'Walk-in closet', iconName: 'DoorOpen', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-high-ceilings', label: 'Techos altos', iconName: 'ArrowUpFromLine', category: 'general', attributeType: 'neutral' },
+  { id: 'gen-natural-light', label: 'Luz natural', iconName: 'Sun', category: 'general', attributeType: 'neutral' },
+
+  { id: 'util-water', label: 'Agua (AAA)', iconName: 'Droplets', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-electricity', label: 'Electricidad (LUMA)', iconName: 'Zap', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-internet', label: 'Internet / Fibra', iconName: 'Wifi', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-solar', label: 'Paneles solares', iconName: 'SunMedium', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-generator', label: 'Generador eléctrico', iconName: 'BatteryCharging', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-gas', label: 'Gas natural', iconName: 'Flame', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-cistern', label: 'Cisterna', iconName: 'Container', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-septic', label: 'Pozo séptico', iconName: 'CircleDot', category: 'utilities', attributeType: 'neutral' },
+  { id: 'util-cable-tv', label: 'Cable TV', iconName: 'Tv', category: 'utilities', attributeType: 'inclusion' },
+  { id: 'util-security-system', label: 'Sistema de seguridad', iconName: 'Shield', category: 'utilities', attributeType: 'inclusion' },
+
+  { id: 'app-stove', label: 'Estufa', iconName: 'CookingPot', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-fridge', label: 'Nevera', iconName: 'Refrigerator', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-washer', label: 'Lavadora', iconName: 'WashingMachine', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-dryer', label: 'Secadora', iconName: 'Wind', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-ac', label: 'Aire acondicionado', iconName: 'AirVent', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-dishwasher', label: 'Lavavajillas', iconName: 'Waves', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-microwave', label: 'Microondas', iconName: 'Microwave', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-water-heater', label: 'Calentador de agua', iconName: 'Thermometer', category: 'appliances', attributeType: 'inclusion' },
+  { id: 'app-ceiling-fans', label: 'Abanicos de techo', iconName: 'Fan', category: 'appliances', attributeType: 'inclusion' },
+
+  { id: 'res-balcony', label: 'Balcón / Terraza', iconName: 'Fence', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-pool', label: 'Piscina', iconName: 'Waves', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-gym', label: 'Gimnasio', iconName: 'Dumbbell', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-elevator', label: 'Elevador', iconName: 'ArrowUpDown', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-rooftop', label: 'Rooftop', iconName: 'Building', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-bbq', label: 'Área de BBQ', iconName: 'Flame', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-playground', label: 'Área de juegos', iconName: 'Baby', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-garden', label: 'Jardín / Patio', iconName: 'TreePine', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-parking', label: 'Estacionamiento', iconName: 'Car', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-lobby', label: 'Lobby', iconName: 'DoorOpen', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-community-room', label: 'Salón comunal', iconName: 'Users', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-laundry-area', label: 'Lavandería común', iconName: 'WashingMachine', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-security-guard', label: 'Guardia de seguridad', iconName: 'ShieldCheck', category: 'residential-amenities', attributeType: 'neutral' },
+  { id: 'res-cctv', label: 'Cámaras de seguridad', iconName: 'Camera', category: 'residential-amenities', attributeType: 'neutral' },
+
+  { id: 'rule-pets-allowed', label: 'Mascotas permitidas', iconName: 'Dog', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-no-pets', label: 'No mascotas', iconName: 'Ban', category: 'rental-rules', attributeType: 'exclusion' },
+  { id: 'rule-section8', label: 'Acepta Section 8', iconName: 'BadgeCheck', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-no-section8', label: 'No acepta Section 8', iconName: 'Ban', category: 'rental-rules', attributeType: 'exclusion' },
+  { id: 'rule-deposit-required', label: 'Depósito requerido', iconName: 'Banknote', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-occupancy-limit', label: 'Límite de ocupantes', iconName: 'Users', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-no-smoking', label: 'No fumadores', iconName: 'Ban', category: 'rental-rules', attributeType: 'exclusion' },
+  { id: 'rule-background-check', label: 'Verificación de antecedentes', iconName: 'FileSearch', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-credit-check', label: 'Verificación de crédito', iconName: 'CreditCard', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-income-proof', label: 'Prueba de ingresos', iconName: 'Receipt', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-lease-12', label: 'Contrato mínimo 12 meses', iconName: 'CalendarDays', category: 'rental-rules', attributeType: 'neutral' },
+  { id: 'rule-no-subletting', label: 'No subarrendar', iconName: 'Ban', category: 'rental-rules', attributeType: 'exclusion' },
+
+  { id: 'com-parking-lot', label: 'Estacionamiento amplio', iconName: 'ParkingCircle', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-high-traffic', label: 'Alto tráfico peatonal', iconName: 'Footprints', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-loading-dock', label: 'Muelle de carga', iconName: 'Truck', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-subdivisible', label: 'Subdivisible', iconName: 'LayoutGrid', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-office-ready', label: 'Listo para oficina', iconName: 'Monitor', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-warehouse', label: 'Uso de almacén', iconName: 'Warehouse', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-retail-space', label: 'Espacio retail', iconName: 'Store', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-industrial', label: 'Zona industrial', iconName: 'Factory', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-hvac', label: 'HVAC central', iconName: 'AirVent', category: 'commercial', attributeType: 'inclusion' },
+  { id: 'com-fire-system', label: 'Sistema contra incendios', iconName: 'Flame', category: 'commercial', attributeType: 'inclusion' },
+  { id: 'com-ada-compliant', label: 'Cumple ADA', iconName: 'Accessibility', category: 'commercial', attributeType: 'neutral' },
+  { id: 'com-signage', label: 'Rótulo exterior', iconName: 'Signpost', category: 'commercial', attributeType: 'neutral' },
+
+  { id: 'land-flat', label: 'Terreno plano', iconName: 'Minus', category: 'land', attributeType: 'neutral' },
+  { id: 'land-paved-access', label: 'Acceso pavimentado', iconName: 'Route', category: 'land', attributeType: 'neutral' },
+  { id: 'land-agricultural', label: 'Uso agrícola', iconName: 'Sprout', category: 'land', attributeType: 'neutral' },
+  { id: 'land-zoned-residential', label: 'Zonificado residencial', iconName: 'Home', category: 'land', attributeType: 'neutral' },
+  { id: 'land-zoned-commercial', label: 'Zonificado comercial', iconName: 'Building2', category: 'land', attributeType: 'neutral' },
+  { id: 'land-zoned-mixed', label: 'Uso mixto', iconName: 'Layers', category: 'land', attributeType: 'neutral' },
+  { id: 'land-water-access', label: 'Acceso a agua', iconName: 'Droplets', category: 'land', attributeType: 'neutral' },
+  { id: 'land-electricity-nearby', label: 'Electricidad cercana', iconName: 'Zap', category: 'land', attributeType: 'neutral' },
+  { id: 'land-fenced', label: 'Cercado', iconName: 'Fence', category: 'land', attributeType: 'neutral' },
+  { id: 'land-cleared', label: 'Limpio / Desbrozado', iconName: 'Scissors', category: 'land', attributeType: 'neutral' },
+  { id: 'land-river-view', label: 'Vista al río', iconName: 'Waves', category: 'land', attributeType: 'neutral' },
+  { id: 'land-permits-ready', label: 'Permisos al día', iconName: 'FileCheck', category: 'land', attributeType: 'neutral' },
+];
+
+export const IDEAL_FIT_PROFILES: { key: string; label: string; description: string; iconName: string }[] = [
+  { key: 'small-family', label: 'Ideal para familia pequeña', description: 'Espacios cómodos para familias de 2-4 personas', iconName: 'Users' },
+  { key: 'large-family', label: 'Ideal para familia grande', description: 'Múltiples habitaciones y áreas comunes amplias', iconName: 'UsersRound' },
+  { key: 'investment', label: 'Ideal para inversión', description: 'Alto potencial de retorno y valorización', iconName: 'TrendingUp' },
+  { key: 'first-time-buyer', label: 'Ideal para primer comprador', description: 'Precio accesible y condiciones flexibles', iconName: 'Heart' },
+  { key: 'retiree', label: 'Ideal para retiro', description: 'Tranquilo, accesible y bajo mantenimiento', iconName: 'Armchair' },
+  { key: 'professional', label: 'Ideal para profesional', description: 'Ubicación céntrica, moderno y funcional', iconName: 'Briefcase' },
+  { key: 'student', label: 'Ideal para estudiante', description: 'Cerca de universidades, económico', iconName: 'GraduationCap' },
+  { key: 'airbnb', label: 'Ideal para Airbnb', description: 'Alta demanda turística y buen retorno', iconName: 'Plane' },
+  { key: 'commercial-business', label: 'Ideal para negocio', description: 'Visibilidad, tráfico y espacio comercial', iconName: 'Store' },
+  { key: 'developer', label: 'Ideal para desarrollador', description: 'Terreno amplio con potencial de desarrollo', iconName: 'Hammer' },
+];
+
+export function getAttributeById(id: string): ListingIconItem | undefined {
+  return PREDEFINED_ATTRIBUTES.find(a => a.id === id);
+}
+
+export function getAttributesByCategory(category: AttributeCategoryKey): ListingIconItem[] {
+  return PREDEFINED_ATTRIBUTES.filter(a => a.category === category);
+}
