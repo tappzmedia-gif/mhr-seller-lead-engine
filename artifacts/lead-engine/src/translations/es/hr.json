@@ -1,0 +1,52 @@
+{
+  "title": "RRHH",
+  "newEmployee": "Nuevo Empleado",
+  "schedule": "Horario",
+  "vacation": "Vacaciones",
+  "performance": "Rendimiento",
+  "onboarding": "Incorporación",
+  "offboarding": "Baja",
+  "status": {
+    "label": "Estado",
+    "active": "Activo",
+    "onLeave": "De Baja",
+    "terminated": "Terminado"
+  },
+  "hiring": {
+    "applied": "Aplicado",
+    "screened": "Preseleccionado",
+    "interview": "Entrevista",
+    "offer": "Oferta",
+    "hired": "Contratado"
+  },
+  "payroll": {
+    "paid": "Pagado",
+    "pending": "Pendiente",
+    "processing": "Procesando"
+  },
+  "payrollHistory": "Historial de Nómina",
+  "timeoff": {
+    "type": {
+      "vacation": "Vacaciones",
+      "sick": "Enfermedad",
+      "personal": "Personal",
+      "bereavement": "Duelo",
+      "juryDuty": "Jurado",
+      "maternity": "Maternidad",
+      "paternity": "Paternidad"
+    },
+    "status": {
+      "approved": "Aprobado",
+      "pending": "Pendiente",
+      "denied": "Denegado",
+      "canceled": "Cancelado"
+    }
+  },
+  "cycle": {
+    "annual": "Anual",
+    "semiAnnual": "Semestral",
+    "quarterly": "Trimestral",
+    "probation": "Probatorio"
+  },
+  "review": "Evaluación"
+}

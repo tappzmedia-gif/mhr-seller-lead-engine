@@ -1,0 +1,52 @@
+{
+  "title": "HR",
+  "newEmployee": "New Employee",
+  "schedule": "Schedule",
+  "vacation": "Vacation",
+  "performance": "Performance",
+  "onboarding": "Onboarding",
+  "offboarding": "Offboarding",
+  "status": {
+    "label": "Status",
+    "active": "Active",
+    "onLeave": "On Leave",
+    "terminated": "Terminated"
+  },
+  "hiring": {
+    "applied": "Applied",
+    "screened": "Screened",
+    "interview": "Interview",
+    "offer": "Offer",
+    "hired": "Hired"
+  },
+  "payroll": {
+    "paid": "Paid",
+    "pending": "Pending",
+    "processing": "Processing"
+  },
+  "payrollHistory": "Payroll History",
+  "timeoff": {
+    "type": {
+      "vacation": "Vacation",
+      "sick": "Sick Leave",
+      "personal": "Personal",
+      "bereavement": "Bereavement",
+      "juryDuty": "Jury Duty",
+      "maternity": "Maternity",
+      "paternity": "Paternity"
+    },
+    "status": {
+      "approved": "Approved",
+      "pending": "Pending",
+      "denied": "Denied",
+      "canceled": "Canceled"
+    }
+  },
+  "cycle": {
+    "annual": "Annual",
+    "semiAnnual": "Semi-Annual",
+    "quarterly": "Quarterly",
+    "probation": "Probation"
+  },
+  "review": "Review"
+}
