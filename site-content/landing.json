@@ -431,7 +431,7 @@
           "question": "¿Cuánto tiempo toma el proceso?"
         },
         {
-          "answer": "\nNo. Compramos tu casa cash y no tienes que pagar comisión.\n",
+          "answer": "¿Tengo que pagar comisión?\nNo. Compramos tu casa cash y no tienes que pagar comisión.\n",
           "question": "¿Tengo que pagar comisión o algún costo?"
         },
         {
