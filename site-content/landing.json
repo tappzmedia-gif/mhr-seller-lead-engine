@@ -443,7 +443,7 @@
           "question": "¿Compran aunque la propiedad tenga deuda?"
         },
         {
-          "answer": "Si. Trabajamos y trabajamos con el banco para solucionarte la situación.",
+          "answer": "¿Compran aunque la propiedad esté en proceso de ejecución?\nSí. Trabajamos directamente la situación y coordinamos con el banco para ayudarte a buscar una solución.",
           "question": "¿Compran aunque la propiedad este en proceso de ejecución?"
         }
       ],
