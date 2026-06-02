@@ -1,0 +1,1192 @@
+{
+  "es": {
+    "urgency": {
+      "enabled": true,
+      "text": "Compramos casas en cash en toda PR · Tu oferta honesta en 24 horas",
+      "cta": "Recibir mi oferta",
+      "colorStyle": "gradient",
+      "bgColor": "#d97706",
+      "bgColorTo": "#b45309"
+    },
+    "heroForm": {
+      "title": "RECIBE TU OFERTA AL INSTANTE",
+      "subtitle": "",
+      "addressPlaceholder": "Dirección o pueblo (Ej. Bayamón, o 123 Calle Sol, Ponce)",
+      "phonePlaceholder": "Tu número de teléfono",
+      "cta": "Recibir mi oferta",
+      "disclaimer": "Al enviar aceptas que el equipo de My House Realty se comunique contigo.",
+      "visible": true
+    },
+    "compare": {
+      "eyebrow": "La diferencia es clara",
+      "title": "Vendernos vs venta tradicional",
+      "subtitle": "Compara lado a lado. Tú decides qué tiene más sentido para tu situación.",
+      "ourLabel": "Con My House Realty",
+      "theirLabel": "Agente / venta tradicional",
+      "rows": [
+        {
+          "ours": "$0 — cero",
+          "label": "Comisiones",
+          "theirs": "5-6% del precio de venta"
+        },
+        {
+          "ours": "Compramos tal como está",
+          "label": "Reparaciones",
+          "theirs": "Tú pagas cada arreglo"
+        },
+        {
+          "ours": "Tan poco como 7 días promedio",
+          "label": "Tiempo al cierre",
+          "theirs": "3 a 6 meses en promedio"
+        },
+        {
+          "ours": "Solo la nuestra",
+          "label": "Visitas ",
+          "theirs": "Decenas de visitas"
+        },
+        {
+          "ours": "Ninguna — oferta firme",
+          "label": "Contingencias",
+          "theirs": "Inspección, financiamiento, tasación (cierre no asegurado y sujeto a banca)"
+        },
+        {
+          "ours": "Cash garantizado",
+          "label": "Pago",
+          "theirs": "Depende del banco del comprador"
+        },
+        {
+          "ours": "Cumplimos con lo firmado (sujeto a incumplimiento de cliente o propiedad)",
+          "label": "Riesgo de cancelación",
+          "theirs": "1 de cada 4 ventas se cae"
+        }
+      ],
+      "cta": "Recibir mi oferta cash en 24h",
+      "visible": true,
+      "order": 5
+    },
+    "floatingCta": {
+      "dockEnabled": true,
+      "whatsappTooltip": "Hablemos por WhatsApp",
+      "dockCall": "Llamar",
+      "dockWhatsapp": "WhatsApp",
+      "dockOffer": "Mi oferta"
+    },
+    "hero": {
+      "badge": "",
+      "title": "Compramos tu casa hasta un millón CASH!!",
+      "subtitle": "Compramos casas y propiedades en cualquier condición.  Los 78 municipios. Gran capacidad de compra.",
+      "cta": "Enviar",
+      "socialProof": "+500",
+      "socialProofLabel": "vendedores ayudados en PR",
+      "ratingLabel": "4.9/5",
+      "licensed": "Empresa licenciada en Puerto Rico · Cumplimiento CRIM, HUD y RESPA"
+    },
+    "trust": {
+      "cashValue": "Cash",
+      "cashLabel": "Compra directa, sin bancos",
+      "h24Value": "24h",
+      "h24Label": "Oferta en 24 horas",
+      "zeroValue": "Cero",
+      "zeroLabel": "Comisiones o reparaciones",
+      "millionValue": "$1M",
+      "millionLabel": "Capacidad de compra",
+      "visible": true,
+      "order": 0
+    },
+    "credentials": {
+      "eyebrow": "Confianza verificable",
+      "title": "Una empresa de bienes raíces en la que puedes confiar",
+      "items": [
+        {
+          "desc": "Operamos bajo todas las regulaciones del Departamento de Estado.",
+          "title": "Licenciados en PR"
+        },
+        {
+          "desc": "Cientos de transacciones cerradas en toda la isla.",
+          "title": "+25 Años De Experiencia"
+        },
+        {
+          "desc": "Hacemos del proceso uno claro, transparente y seguro para ti.",
+          "title": "Tranquilidad y Transparencia"
+        },
+        {
+          "desc": "Procesos llevados a cabo en cumplimiento con DACO, Junta de Corredores y Ley 10 del 1994. ",
+          "title": "Cumplimiento Gubernamental"
+        }
+      ],
+      "visible": true,
+      "order": 1
+    },
+    "coverage": {
+      "title": "Poder de compra real. Cobertura en toda la isla.",
+      "subtitle": "Estés en San Juan o en Mayagüez, estamos listos para hacerte una oferta real.",
+      "stat1Value": "$1M+",
+      "stat1Label": "Capacidad máxima de compra",
+      "stat2Value": "78",
+      "stat2Label": "Municipios cubiertos en Puerto Rico",
+      "stat3Value": "7 Días",
+      "stat3Label": "Tiempo promedio al cierre",
+      "visible": true,
+      "order": 2
+    },
+    "closings": {
+      "eyebrow": "Resultados reales",
+      "title": "Cierres Recientes En Puerto Rico",
+      "subtitle": "Casos reales que hemos cerrado en los últimos meses. Diferentes municipios, diferentes situaciones — siempre con la misma transparencia.",
+      "confidential": "Identidades protegidas por confidencialidad",
+      "status": "Cerrado",
+      "labelType": "Tipo de propiedad",
+      "labelCond": "Situación",
+      "labelDays": "Cierre en",
+      "daysUnit": "días",
+      "items": [
+        {
+          "days": "12",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Bayamón",
+          "photoUrl": "/api/storage/files/objects/uploads/d1396f91-191f-4c80-b74b-01979a9aefa3",
+          "situation": ""
+        },
+        {
+          "days": "14",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Ponce",
+          "photoUrl": "/api/storage/files/objects/uploads/d4e8bdc1-6fe0-4175-b23f-f9ee1af654b2",
+          "situation": ""
+        },
+        {
+          "days": "7",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Toa Alta",
+          "photoUrl": "/api/storage/files/objects/uploads/71223c16-924f-43e4-bda3-69179674eb3a",
+          "situation": ""
+        },
+        {
+          "days": "12",
+          "type": "Unifamiliar",
+          "visible": true,
+          "location": "Moca",
+          "photoUrl": "/api/storage/files/objects/uploads/b9c3de8c-cabf-47b9-8a9e-db2dde1d2c22",
+          "situation": ""
+        },
+        {
+          "days": "11",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Guánica",
+          "photoUrl": "/api/storage/files/objects/uploads/3689c748-9484-47fb-b803-85c72d6a41d1",
+          "situation": ""
+        },
+        {
+          "days": "8",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Juana Días",
+          "photoUrl": "/api/storage/files/objects/uploads/5e28231e-e3cc-435d-bb0f-700147dd857d",
+          "situation": ""
+        },
+        {
+          "days": "10",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Yauco",
+          "photoUrl": "/api/storage/files/objects/uploads/0f08dc63-b691-4348-b642-11ba3bb94710",
+          "situation": ""
+        },
+        {
+          "days": "13",
+          "type": "Casa - Unifamiliar",
+          "visible": true,
+          "location": "Guaynabo",
+          "photoUrl": "/api/storage/files/objects/uploads/4a49c8f2-fbd6-4cd9-85c4-b92b9b752a1c",
+          "situation": ""
+        }
+      ],
+      "visible": true,
+      "order": 3
+    },
+    "pain": {
+      "title": "Sea cual sea tu situación, podemos ayudarte",
+      "subtitle": "Compramos tu propiedad en cualquier condición. Nos encargamos de lo que mas pesa y tu solo recibes una oferta al momento y y una transacción sin intermediarios.",
+      "cta": "Cuéntanos tu situación",
+      "items": [
+        {
+          "desc": "No gastes un peso en reparaciones. Compramos tal como está — deteriorada, dañada o abandonada.",
+          "title": "Propiedad en mal estado"
+        },
+        {
+          "desc": "Navegamos situaciones de herencia complejas y compramos la propiedad para que los herederos puedan seguir adelante.",
+          "title": "Herencia o título compartido"
+        },
+        {
+          "desc": "Atrasos hipotecarios, gravámenes del gobierno o riesgo de ejecución — evaluamos y actuamos rápido.",
+          "title": "Deuda, CRIM o riesgo de ejecución"
+        },
+        {
+          "desc": "¿Saliendo de Puerto Rico? Cerramos rápido para que viajes con tranquilidad y dinero en mano.",
+          "title": "Reubicación o mudanza fuera de la isla"
+        }
+      ],
+      "visible": true,
+      "order": 4
+    },
+    "process": {
+      "title": "Un proceso diseñado para tu tranquilidad",
+      "subtitle": "Desde tu primer mensaje hasta el cierre — simple, transparente y siempre en tu horario.",
+      "cta": "Comenzar la evaluación — es gratis",
+      "steps": [
+        {
+          "desc": "Llena un breve formulario de 9 pasos describiendo la propiedad y tu situación.",
+          "title": "Cuéntanos de la propiedad",
+          "numberColor": "#1e40af"
+        },
+        {
+          "desc": "Uno de nuestros agentes se comunica contigo para analizar tus opciones y visitar tu propiedad.",
+          "title": "Te Contactamos",
+          "numberColor": "#1e40af"
+        },
+        {
+          "desc": "Te hacemos la oferta en la misma visita y completamos el proceso para un cierre rápido.",
+          "title": "Oferta y cierre",
+          "numberColor": "#1e40af"
+        }
+      ],
+      "visible": true,
+      "order": 6
+    },
+    "video": {
+      "enabled": true,
+      "eyebrow": "Mensaje del fundador",
+      "title": "Por qué cientos de propietarios nos eligen para vender su casa",
+      "subtitle": "Un mensaje directo de Guillermo Méndez, fundador de My House Realty. Conoce nuestro proceso, nuestro compromiso y por qué somos diferentes.",
+      "videoUrl": "",
+      "posterUrl": "",
+      "playLabel": "Ver mensaje del fundador",
+      "bullets": [
+        "Compramos casas en cualquier condición — sin reparaciones",
+        "Cash garantizado, cierre en tan poco como 20 días",
+        "Cero comisiones, cero presión, cero juicio",
+        "Equipo 100% local con cobertura en los 78 municipios"
+      ],
+      "cta": "Recibir mi oferta cash en 24h",
+      "countVisible": false,
+      "countPosition": "below",
+      "countSeed": 0,
+      "countLabel": "propietarios han visto este mensaje",
+      "visible": true,
+      "order": 7
+    },
+    "founder": {
+      "eyebrow": "Conoce al equipo",
+      "title": "Liderado por expertos locales que conocen Puerto Rico",
+      "name": "Guillermo Méndez",
+      "role": "Fundador y Director",
+      "bio": "Más de una década comprando propiedades directamente a propietarios en toda la isla. Mi equipo y yo tratamos cada transacción como si fuera de nuestra propia familia: con honestidad, claridad y velocidad. Si decidimos hacer una oferta, la cumplimos.",
+      "initials": "GM",
+      "photoUrl": "",
+      "credentials": [
+        "Licenciado en bienes raíces de Puerto Rico",
+        "+500 propiedades evaluadas en la isla",
+        "Cobertura completa en los 78 municipios",
+        "Cumplimiento total CRIM, HUD y RESPA"
+      ],
+      "cta": "Hablar con mi equipo",
+      "team": [
+        {
+          "id": "1",
+          "name": "Guillermo Méndez",
+          "role": "Fundador y Director",
+          "order": 0,
+          "region": "San Juan · Toda la isla",
+          "visible": true,
+          "initials": "GM",
+          "photoUrl": ""
+        },
+        {
+          "id": "2",
+          "name": "María Torres",
+          "role": "Coordinadora de cierres",
+          "order": 1,
+          "region": "Bayamón · Guaynabo",
+          "visible": true,
+          "initials": "MT",
+          "photoUrl": ""
+        },
+        {
+          "id": "3",
+          "name": "Carlos Rivera",
+          "role": "Evaluador de propiedades",
+          "order": 2,
+          "region": "Caguas · Humacao",
+          "visible": true,
+          "initials": "CR",
+          "photoUrl": ""
+        },
+        {
+          "id": "4",
+          "name": "Ana Colón",
+          "role": "Administración y finanzas",
+          "order": 3,
+          "region": "",
+          "visible": true,
+          "initials": "AC",
+          "photoUrl": ""
+        },
+        {
+          "id": "5",
+          "name": "Javier Ortiz",
+          "role": "Especialista en títulos",
+          "order": 4,
+          "region": "Ponce · Arecibo",
+          "visible": true,
+          "initials": "JO",
+          "photoUrl": ""
+        }
+      ],
+      "visible": false,
+      "order": 8
+    },
+    "testimonials": {
+      "title": "Vendedores reales. Resultados reales.",
+      "subtitle": "Propietarios en Puerto Rico que necesitaban una solución de verdad — y la encontraron.",
+      "starColor": "#f59e0b",
+      "carouselSpeed": "medium",
+      "bgStyle": "white",
+      "items": [
+        {
+          "quote": "Mi casa llevaba tres años vacía y deteriorándose. Me hicieron una oferta justa y cerramos en menos de tres semanas. Sin drama, sin retrasos.",
+          "author": "Miguel R.",
+          "detail": "Vendida en 18 días",
+          "location": "Bayamón"
+        },
+        {
+          "quote": "Me mudaba a Florida con poco tiempo y no podía lidiar con una venta tradicional. Fueron el único equipo que me hizo una oferta real y la cumplió.",
+          "author": "Sonia C.",
+          "detail": "Cerró antes de mi vuelo",
+          "location": "Carolina"
+        },
+        {
+          "quote": "Teníamos un conflicto de herencia entre cuatro hermanos y nadie se ponía de acuerdo. Nos orientaron durante todo el proceso y lo resolvieron para que pudiéramos vender.",
+          "author": "Héctor T.",
+          "detail": "Herencia compleja resuelta",
+          "location": "Ponce"
+        }
+      ],
+      "visible": true,
+      "order": 9
+    },
+    "benefits": {
+      "title": "Por qué elegirnos sobre cualquier otra opción",
+      "subtitle": "Vendemos claridad, rapidez y un proceso sin sorpresas — no solo una oferta.",
+      "items": [
+        {
+          "desc": "No dependemos de financiamiento externo. Nuestra oferta es real y la cumplimos el día del cierre.",
+          "title": "Cash directo, sin bancos"
+        },
+        {
+          "desc": "Desde la evaluación hasta la firma — un proceso ágil y en el horario que elijas.",
+          "title": "Cierre en 20 días o menos"
+        },
+        {
+          "desc": "Sin agentes, sin tarifas ocultas, sin sorpresas. Lo que ofrecemos es lo que recibes.",
+          "title": "Cero comisiones y costos"
+        },
+        {
+          "desc": "Deteriorada, heredada, con deudas o vacía — no necesitas reparar nada antes de vender.",
+          "title": "Compramos en cualquier condición"
+        },
+        {
+          "desc": "Conocemos Puerto Rico. Hablamos español, entendemos el mercado y cerramos con transparencia.",
+          "title": "Equipo local de confianza"
+        },
+        {
+          "desc": "Evaluamos tu propiedad gratis. Si la oferta no te conviene, no hay obligación de aceptar.",
+          "title": "Sin presión ni compromisos"
+        },
+        {
+          "desc": "San Juan, Bayamón, Ponce, Mayagüez — dondequiera que esté tu propiedad, estamos ahí.",
+          "title": "Cobertura en los 78 municipios"
+        },
+        {
+          "desc": "Te acompañamos en cada paso: papeleo, título, CRIM y coordinación de cierre.",
+          "title": "Proceso 100% guiado"
+        }
+      ],
+      "visible": false,
+      "order": 10
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "subtitle": "Respuestas directas a lo que más preguntan los vendedores.",
+      "items": [
+        {
+          "answer": "¿Cómo es el proceso y cómo determinan la oferta?\nPrimero, uno de nuestros corredores de bienes raíces le atiende en una llamada. Luego se coordina una visita a la propiedad y se hace una oferta cash al instante. De llegar a un acuerdo, compramos la propiedad cash.",
+          "question": "¿Realmente compran en cualquier condición?"
+        },
+        {
+          "answer": "Desde que recibimos tu información, hacemos una evaluación inicial en 24 horas. Si procedemos, podemos cerrar la compra en tan poco como 20 días, según la documentación disponible.",
+          "question": "¿Cuánto tiempo toma el proceso?"
+        },
+        {
+          "answer": "No. No cobramos comisiones, honorarios ni gastos de cierre. Nuestro equipo absorbe los costos de la transacción — lo que ofrecemos es lo que recibes.",
+          "question": "¿Tengo que pagar comisión o algún costo?"
+        },
+        {
+          "answer": "Evaluamos la situación y, cuando es viable, nos encargamos de resolver las deudas pendientes como parte del proceso de compra. Incluye deudas de CRIM, hipotecas y otros gravámenes.",
+          "question": "¿Qué pasa si la propiedad tiene hipoteca o deuda?"
+        },
+        {
+          "answer": "Idealmente: la escritura de la propiedad, evidencia de contribuciones del CRIM y tu identificación. Para propiedades heredadas, la declaratoria de herederos. Nuestro equipo te guía en cada paso para que no se escape nada.",
+          "question": "¿Qué documentos necesito tener?"
+        },
+        {
+          "answer": "Analizamos el valor de mercado, condición física, ubicación, situación legal y urgencia. Te damos una oferta justa y sin presión basada en datos reales del mercado de Puerto Rico.",
+          "question": "¿Cómo determinan el precio de la oferta?"
+        }
+      ],
+      "visible": true,
+      "order": 11
+    },
+    "finalCta": {
+      "eyebrow": "Da el primer paso hoy",
+      "title": "¿Listo para recibir una oferta real por tu propiedad?",
+      "subtitle": "Sin compromiso. Sin presión. Cuéntanos tu situación y te damos una oferta honesta en cash dentro de 24 horas.",
+      "button": "Evaluar mi propiedad",
+      "whatsapp": "WhatsApp",
+      "call": "Llamar",
+      "footnote": "Más de 500 vendedores en Puerto Rico han confiado en nosotros · Empresa licenciada",
+      "visible": true,
+      "order": 12
+    },
+    "footer": {
+      "tagline": "La forma más rápida y confiable de vender tu propiedad en Puerto Rico — en cualquier municipio, cualquier condición.",
+      "navHeading": "Navegación",
+      "contactHeading": "Contacto",
+      "scheduleHeading": "Horario",
+      "rights": "Todos los derechos reservados.",
+      "terms": "Términos y Condiciones",
+      "privacy": "Política de Privacidad",
+      "whatsappLabel": "WhatsApp",
+      "adminPortal": "Portal Admin"
+    },
+    "nav": [
+      {
+        "key": "home",
+        "href": "/",
+        "label": "Inicio",
+        "order": 0,
+        "visible": true
+      },
+      {
+        "key": "properties",
+        "href": "/catalogo",
+        "label": "Propiedades",
+        "order": 1,
+        "visible": false
+      },
+      {
+        "key": "about",
+        "href": "/sobre-nosotros",
+        "label": "Sobre Nosotros",
+        "order": 2,
+        "visible": false
+      },
+      {
+        "key": "contact",
+        "href": "/contact",
+        "label": "Contacto",
+        "order": 3,
+        "visible": true
+      },
+      {
+        "key": "login",
+        "href": "/admin/login",
+        "label": "Iniciar Sesión",
+        "order": 4,
+        "visible": false
+      },
+      {
+        "key": "evaluate",
+        "href": "/formulario",
+        "label": "Evaluar mi propiedad",
+        "order": 5,
+        "visible": true
+      }
+    ],
+    "contactPage": {
+      "heroTitle": "Contáctenos",
+      "heroSubtitle": "Estamos aquí para ayudarle. Comuníquese con nosotros y le responderemos en menos de 24 horas.",
+      "formTitle": "Envíenos un mensaje",
+      "contactInfoTitle": "Información de contacto",
+      "addressLabel": "Dirección",
+      "addressValue": "Ave. Ponce de León 1225, Suite 300, San Juan, PR 00907",
+      "phoneLabel": "Teléfono",
+      "hoursLabel": "Horario de oficina",
+      "hoursValue1": "Lunes a Viernes: 8:00 AM - 6:00 PM",
+      "hoursValue2": "Sábados: 9:00 AM - 2:00 PM",
+      "hoursValue3": "Domingos: Cerrado",
+      "emailLabel": "Correo Electrónico",
+      "locationTitle": "Nuestra ubicación",
+      "successTitle": "¡Mensaje enviado!",
+      "successDesc": "Nos pondremos en contacto con usted pronto."
+    },
+    "aboutPage": {
+      "heroBgUrl": "",
+      "heroTitle": "Sobre Nosotros",
+      "heroSubtitle": "Somos un equipo apasionado de profesionales inmobiliarios comprometidos con transformar la experiencia de compra y venta de propiedades en Puerto Rico.",
+      "historyTitle": "Nuestra Historia",
+      "historyP1": "My House Realty nació con una visión clara: hacer que el proceso de compra y venta de propiedades en Puerto Rico sea transparente, justo y accesible para todos.",
+      "historyP2": "Desde nuestros inicios, hemos ayudado a más de 500 propietarios a resolver situaciones complejas — desde herencias y propiedades deterioradas hasta urgencias de mudanza y deudas con el CRIM.",
+      "historyP3": "Nuestro enfoque de compra directa con fondos propios elimina la incertidumbre del proceso tradicional, ofreciendo soluciones reales en plazos que se adaptan a las necesidades de cada cliente.",
+      "historyImageUrl": "",
+      "missionTitle": "Nuestra Misión",
+      "missionDesc": "Facilitar la compra y venta de propiedades en Puerto Rico ofreciendo soluciones rápidas, justas y transparentes que generan confianza y tranquilidad a cada cliente.",
+      "visionTitle": "Nuestra Visión",
+      "visionDesc": "Ser la empresa de bienes raíces más confiable y eficiente de Puerto Rico, reconocida por nuestro compromiso con la excelencia y la satisfacción del cliente.",
+      "valuesTitle": "Nuestros Valores",
+      "valuesDesc": "Transparencia, integridad, eficiencia y empatía guían cada interacción con nuestros clientes. Creemos que cada propietario merece un trato digno y soluciones reales.",
+      "teamTitle": "Nuestro Equipo",
+      "teamSubtitle": "Profesionales dedicados con años de experiencia en el mercado inmobiliario de Puerto Rico.",
+      "teamMembers": [
+        {
+          "name": "Carlos Rivera",
+          "title": "Director General",
+          "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "María Santos",
+          "title": "Directora de Ventas",
+          "photoUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "José Fernández",
+          "title": "Asesor de Inversiones",
+          "photoUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "Ana Rodríguez",
+          "title": "Agente de Bienes Raíces",
+          "photoUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "Luis Méndez",
+          "title": "Especialista Hipotecario",
+          "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "Carmen Díaz",
+          "title": "Coordinadora de Operaciones",
+          "photoUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=400&q=80"
+        }
+      ]
+    },
+    "catalogPage": {
+      "title": "Catálogo de Propiedades",
+      "subtitle": "Explore nuestra selección de propiedades disponibles en Puerto Rico.",
+      "searchPlaceholder": "Buscar por título, municipio o tipo..."
+    }
+  },
+  "en": {
+    "urgency": {
+      "enabled": true,
+      "text": "We buy houses in cash across all of PR · Honest offer in 24 hours",
+      "cta": "Get my offer",
+      "colorStyle": "gradient",
+      "bgColor": "#d97706",
+      "bgColorTo": "#b45309"
+    },
+    "heroForm": {
+      "title": "Get your free offer in 24 hours",
+      "subtitle": "No commitment · 100% confidential",
+      "addressPlaceholder": "Property address (e.g. 123 Sol St, Bayamón)",
+      "phonePlaceholder": "Your phone number",
+      "cta": "Get my cash offer in 24h",
+      "disclaimer": "By submitting you agree we may contact you. No spam, no pressure."
+    },
+    "compare": {
+      "eyebrow": "The difference is clear",
+      "title": "Selling to us vs traditional sale",
+      "subtitle": "Compare side by side. You decide what makes sense for your situation.",
+      "ourLabel": "With My House Realty",
+      "theirLabel": "Agent / traditional sale",
+      "rows": [
+        {
+          "ours": "$0 — zero",
+          "label": "Commissions",
+          "theirs": "5-6% of sale price"
+        },
+        {
+          "ours": "We buy as-is",
+          "label": "Repairs",
+          "theirs": "You pay every fix"
+        },
+        {
+          "ours": "As little as 20 days",
+          "label": "Time to close",
+          "theirs": "3 to 6 months on average"
+        },
+        {
+          "ours": "Zero",
+          "label": "Showings",
+          "theirs": "Dozens of showings"
+        },
+        {
+          "ours": "None — firm offer",
+          "label": "Contingencies",
+          "theirs": "Inspection, financing, appraisal"
+        },
+        {
+          "ours": "Guaranteed cash",
+          "label": "Payment",
+          "theirs": "Depends on buyer's bank"
+        },
+        {
+          "ours": "Never — we honor the contract",
+          "label": "Cancelled closing",
+          "theirs": "1 in 4 sales falls through"
+        }
+      ],
+      "cta": "Get my cash offer in 24h",
+      "visible": true,
+      "order": 5
+    },
+    "floatingCta": {
+      "dockEnabled": true,
+      "whatsappTooltip": "Chat on WhatsApp",
+      "dockCall": "Call",
+      "dockWhatsapp": "WhatsApp",
+      "dockOffer": "My offer"
+    },
+    "hero": {
+      "badge": "Cash offers up to $1,000,000 · All of Puerto Rico",
+      "title": "We Buy Your Home for Up to One Million CASH!!",
+      "subtitle": "We buy homes and properties in any condition for cash. Up to $1,000,000. All 78 municipalities. Your honest offer in 24 hours.",
+      "cta": "Get my cash offer in 24h",
+      "socialProof": "+500",
+      "socialProofLabel": "sellers helped across PR",
+      "ratingLabel": "4.9/5",
+      "licensed": "Licensed in Puerto Rico · CRIM, HUD & RESPA compliant"
+    },
+    "trust": {
+      "cashValue": "Cash",
+      "cashLabel": "Direct purchase, no banks",
+      "h24Value": "24h",
+      "h24Label": "Offer within 24 hours",
+      "zeroValue": "Zero",
+      "zeroLabel": "Commissions or repairs",
+      "millionValue": "$1M",
+      "millionLabel": "Buying capacity",
+      "visible": true,
+      "order": 0
+    },
+    "credentials": {
+      "eyebrow": "Verified trust",
+      "title": "A real estate company you can trust",
+      "items": [
+        {
+          "desc": "We operate under all PR Department of State regulations.",
+          "title": "Licensed in PR"
+        },
+        {
+          "desc": "Hundreds of closed transactions across the island.",
+          "title": "10+ years of experience"
+        },
+        {
+          "desc": "Your interests are protected at every closing.",
+          "title": "Insured and bonded"
+        },
+        {
+          "desc": "Transparent processes aligned with federal and local law.",
+          "title": "CRIM, HUD & RESPA compliant"
+        }
+      ],
+      "visible": true,
+      "order": 1
+    },
+    "coverage": {
+      "title": "Serious buying power. Island-wide coverage.",
+      "subtitle": "Whether your property is in San Juan or Mayagüez, we are ready to make you a real offer.",
+      "stat1Value": "$1,000,000",
+      "stat1Label": "Maximum buying capacity",
+      "stat2Value": "78",
+      "stat2Label": "Municipalities covered across Puerto Rico",
+      "stat3Value": "20 days",
+      "stat3Label": "Average time to closing",
+      "visible": true,
+      "order": 2
+    },
+    "closings": {
+      "eyebrow": "Real results",
+      "title": "Recent closings across Puerto Rico",
+      "subtitle": "Real cases we've closed in recent months. Different municipalities, different situations — same transparency every time.",
+      "confidential": "Identities protected for confidentiality",
+      "status": "Closed",
+      "labelType": "Property type",
+      "labelCond": "Situation",
+      "labelDays": "Closed in",
+      "daysUnit": "days",
+      "items": [
+        {
+          "days": "21",
+          "type": "Single-family home",
+          "visible": true,
+          "location": "Bayamón",
+          "photoUrl": "",
+          "situation": "Inherited property"
+        },
+        {
+          "days": "14",
+          "type": "Apartment",
+          "visible": true,
+          "location": "Carolina",
+          "photoUrl": "",
+          "situation": "Relocating off-island"
+        },
+        {
+          "days": "28",
+          "type": "Country home",
+          "visible": true,
+          "location": "Mayagüez",
+          "photoUrl": "",
+          "situation": "Poor condition"
+        },
+        {
+          "days": "12",
+          "type": "Multi-family",
+          "visible": true,
+          "location": "Caguas",
+          "photoUrl": "",
+          "situation": "CRIM debt and mortgage"
+        }
+      ],
+      "visible": true,
+      "order": 3
+    },
+    "pain": {
+      "title": "Whatever your situation — we can help",
+      "subtitle": "We buy properties in every scenario. No judgment, no pressure, just real solutions for property owners in Puerto Rico.",
+      "cta": "Tell us your situation",
+      "items": [
+        {
+          "desc": "Don't spend a dollar on repairs. We buy as-is — deteriorated, damaged, or abandoned.",
+          "title": "Property in poor condition"
+        },
+        {
+          "desc": "We navigate complex inheritance situations and buy the property so heirs can move on.",
+          "title": "Inheritance or shared title"
+        },
+        {
+          "desc": "Mortgage arrears, government liens, or risk of foreclosure — we evaluate and act fast.",
+          "title": "Debt, CRIM, or foreclosure risk"
+        },
+        {
+          "desc": "Leaving Puerto Rico? We close quickly so you can travel with peace of mind and cash in hand.",
+          "title": "Relocating or moving off-island"
+        }
+      ],
+      "visible": true,
+      "order": 4
+    },
+    "process": {
+      "title": "A process designed for your peace of mind",
+      "subtitle": "From your first message to closing — simple, transparent, and always on your schedule.",
+      "cta": "Start the evaluation — it's free",
+      "steps": [
+        {
+          "desc": "Fill out a brief 9-step form describing the property and your situation.",
+          "title": "Tell us about your property",
+          "numberColor": "#1e40af"
+        },
+        {
+          "desc": "Our team analyzes the market, condition, and legal status to build a fair offer.",
+          "title": "We evaluate your case",
+          "numberColor": "#1e40af"
+        },
+        {
+          "desc": "A real person calls you within 24 hours to discuss your options — no pressure.",
+          "title": "We contact you",
+          "numberColor": "#1e40af"
+        },
+        {
+          "desc": "If it works for both parties, we sign and close on the date you choose.",
+          "title": "Offer and closing",
+          "numberColor": "#1e40af"
+        }
+      ],
+      "visible": true,
+      "order": 6
+    },
+    "video": {
+      "enabled": true,
+      "eyebrow": "Message from the founder",
+      "title": "Why hundreds of homeowners choose us to sell their house",
+      "subtitle": "A direct message from Guillermo Méndez, founder of My House Realty. Get to know our process, our commitment, and why we're different.",
+      "videoUrl": "",
+      "posterUrl": "",
+      "playLabel": "Watch founder's message",
+      "bullets": [
+        "We buy houses in any condition — no repairs needed",
+        "Guaranteed cash, closing in as little as 20 days",
+        "Zero commissions, zero pressure, zero judgment",
+        "100% local team covering all 78 municipalities"
+      ],
+      "cta": "Get my cash offer in 24h",
+      "countVisible": false,
+      "countPosition": "below",
+      "countSeed": 0,
+      "countLabel": "homeowners have watched this message",
+      "visible": true,
+      "order": 7
+    },
+    "founder": {
+      "eyebrow": "Meet the team",
+      "title": "Led by local experts who know Puerto Rico",
+      "name": "Guillermo Méndez",
+      "role": "Founder & CEO",
+      "bio": "More than a decade buying properties directly from homeowners across the island. My team and I treat every transaction like family: with honesty, clarity, and speed. When we make an offer, we honor it.",
+      "initials": "GM",
+      "photoUrl": "",
+      "credentials": [
+        "Licensed Puerto Rico real estate professional",
+        "+500 properties evaluated across the island",
+        "Full coverage across all 78 municipalities",
+        "Full CRIM, HUD & RESPA compliance"
+      ],
+      "cta": "Talk to my team",
+      "team": [
+        {
+          "id": "1",
+          "name": "Guillermo Méndez",
+          "role": "Founder & CEO",
+          "order": 0,
+          "region": "San Juan · Island-wide",
+          "visible": true,
+          "initials": "GM",
+          "photoUrl": ""
+        },
+        {
+          "id": "2",
+          "name": "María Torres",
+          "role": "Closings Coordinator",
+          "order": 1,
+          "region": "Bayamón · Guaynabo",
+          "visible": true,
+          "initials": "MT",
+          "photoUrl": ""
+        },
+        {
+          "id": "3",
+          "name": "Carlos Rivera",
+          "role": "Property Evaluator",
+          "order": 2,
+          "region": "Caguas · Humacao",
+          "visible": true,
+          "initials": "CR",
+          "photoUrl": ""
+        },
+        {
+          "id": "4",
+          "name": "Ana Colón",
+          "role": "Administration & Finance",
+          "order": 3,
+          "region": "",
+          "visible": true,
+          "initials": "AC",
+          "photoUrl": ""
+        },
+        {
+          "id": "5",
+          "name": "Javier Ortiz",
+          "role": "Title Specialist",
+          "order": 4,
+          "region": "Ponce · Arecibo",
+          "visible": true,
+          "initials": "JO",
+          "photoUrl": ""
+        }
+      ],
+      "visible": true,
+      "order": 8
+    },
+    "testimonials": {
+      "title": "Real sellers. Real results.",
+      "subtitle": "Puerto Rico homeowners who needed a real solution — and found one.",
+      "starColor": "#facc15",
+      "carouselSpeed": "medium",
+      "bgStyle": "white",
+      "items": [
+        {
+          "quote": "My house had been sitting vacant for three years and falling apart. They made me a fair offer and we closed in under three weeks. No drama, no delays.",
+          "author": "Miguel R.",
+          "detail": "Sold in 18 days",
+          "location": "Bayamón"
+        },
+        {
+          "quote": "I was relocating to Florida on a tight deadline and couldn't deal with a traditional listing. They were the only team that gave me a real offer and actually followed through.",
+          "author": "Sonia C.",
+          "detail": "Closed before my flight",
+          "location": "Carolina"
+        },
+        {
+          "quote": "We had an inheritance dispute between four siblings and nobody could agree. They guided us through the entire process and got it resolved so we could finally sell.",
+          "author": "Héctor T.",
+          "detail": "Complex inheritance resolved",
+          "location": "Ponce"
+        }
+      ],
+      "visible": true,
+      "order": 9
+    },
+    "benefits": {
+      "title": "Why choose us over any other option",
+      "subtitle": "We deliver clarity, speed, and a process with zero surprises — not just an offer.",
+      "items": [
+        {
+          "desc": "We don't rely on outside financing. Our offer is real and we honor it on closing day.",
+          "title": "Direct cash, no banks"
+        },
+        {
+          "desc": "From evaluation to signing — a streamlined process on your schedule.",
+          "title": "Close in 20 days or less"
+        },
+        {
+          "desc": "No agents, no hidden fees, no surprises. What we offer is what you receive.",
+          "title": "Zero commissions or fees"
+        },
+        {
+          "desc": "Deteriorated, inherited, in debt, or vacant — no repairs needed before you sell.",
+          "title": "We buy in any condition"
+        },
+        {
+          "desc": "We know Puerto Rico. We speak Spanish, understand the market, and close with transparency.",
+          "title": "Trusted local team"
+        },
+        {
+          "desc": "We evaluate your property for free. If the offer doesn't work for you, there's no obligation to accept.",
+          "title": "No pressure or obligation"
+        },
+        {
+          "desc": "San Juan, Bayamón, Ponce, Mayagüez — wherever your property is, we're there.",
+          "title": "Coverage across all 78 municipalities"
+        },
+        {
+          "desc": "We walk you through every step: paperwork, title, CRIM, and closing coordination.",
+          "title": "100% guided process"
+        }
+      ],
+      "visible": true,
+      "order": 10
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "subtitle": "Straightforward answers to what sellers ask most.",
+      "items": [
+        {
+          "answer": "Yes. We buy properties in any state — deteriorated, with legal issues, inheritances, CRIM debts, occupied, or vacant. You don't need to invest in repairs or cleanups before selling.",
+          "question": "Do you really buy in any condition?"
+        },
+        {
+          "answer": "Once we receive your information, we do an initial assessment within 24 hours. If we proceed, we can close the purchase in as little as 20 days, depending on documentation availability.",
+          "question": "How long does the process take?"
+        },
+        {
+          "answer": "No. We don't charge commissions, fees, or closing costs. Our team absorbs the transaction costs — what we offer is what you receive.",
+          "question": "Do I have to pay any commissions or fees?"
+        },
+        {
+          "answer": "We evaluate the situation and, when viable, handle resolving pending debts as part of the purchase. This includes CRIM debts, mortgages, and other liens.",
+          "question": "What if the property has a mortgage or debt?"
+        },
+        {
+          "answer": "Ideally: the property deed, CRIM tax evidence, and your ID. For inherited properties, the heirs declaration. Our team walks you through every step so nothing gets missed.",
+          "question": "What documents do I need?"
+        },
+        {
+          "answer": "We analyze market value, physical condition, location, legal situation, and urgency. We give you a fair, no-pressure offer based on real Puerto Rico market data.",
+          "question": "How do you determine the offer price?"
+        }
+      ],
+      "visible": true,
+      "order": 11
+    },
+    "finalCta": {
+      "eyebrow": "Take the first step today",
+      "title": "Ready to get a real offer for your property?",
+      "subtitle": "No commitment. No pressure. Tell us your situation and we'll give you an honest cash offer within 24 hours.",
+      "button": "Evaluate my property",
+      "whatsapp": "WhatsApp",
+      "call": "Call",
+      "footnote": "More than 500 sellers across Puerto Rico have trusted us · Licensed company",
+      "visible": true,
+      "order": 12
+    },
+    "footer": {
+      "tagline": "The fastest, most reliable way to sell your property in Puerto Rico — any municipality, any condition.",
+      "navHeading": "Navigation",
+      "contactHeading": "Contact",
+      "scheduleHeading": "Schedule",
+      "rights": "All rights reserved.",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "whatsappLabel": "WhatsApp",
+      "adminPortal": "Admin Portal"
+    },
+    "nav": [
+      {
+        "key": "home",
+        "href": "/",
+        "label": "Home",
+        "order": 0,
+        "visible": true
+      },
+      {
+        "key": "properties",
+        "href": "/catalogo",
+        "label": "Properties",
+        "order": 1,
+        "visible": false
+      },
+      {
+        "key": "about",
+        "href": "/about",
+        "label": "About Us",
+        "order": 2,
+        "visible": false
+      },
+      {
+        "key": "contact",
+        "href": "/contact",
+        "label": "Contact",
+        "order": 3,
+        "visible": true
+      },
+      {
+        "key": "login",
+        "href": "/admin/login",
+        "label": "Sign In",
+        "order": 4,
+        "visible": false
+      },
+      {
+        "key": "evaluate",
+        "href": "/formulario",
+        "label": "Evaluate my property",
+        "order": 5,
+        "visible": true
+      }
+    ],
+    "contactPage": {
+      "heroTitle": "Contact Us",
+      "heroSubtitle": "We're here to help. Reach out and we'll get back to you within 24 hours.",
+      "formTitle": "Send us a message",
+      "contactInfoTitle": "Contact information",
+      "addressLabel": "Address",
+      "addressValue": "Ave. Ponce de León 1225, Suite 300, San Juan, PR 00907",
+      "phoneLabel": "Phone",
+      "hoursLabel": "Office hours",
+      "hoursValue1": "Monday to Friday: 8:00 AM - 6:00 PM",
+      "hoursValue2": "Saturdays: 9:00 AM - 2:00 PM",
+      "hoursValue3": "Sundays: Closed",
+      "emailLabel": "Email",
+      "locationTitle": "Our location",
+      "successTitle": "Message sent!",
+      "successDesc": "We'll get in touch with you shortly."
+    },
+    "aboutPage": {
+      "heroBgUrl": "",
+      "heroTitle": "About Us",
+      "heroSubtitle": "We are a passionate team of real estate professionals committed to transforming the property buying and selling experience in Puerto Rico.",
+      "historyTitle": "Our Story",
+      "historyP1": "My House Realty was born with a clear vision: to make the process of buying and selling properties in Puerto Rico transparent, fair, and accessible to everyone.",
+      "historyP2": "Since our beginnings, we have helped more than 500 property owners resolve complex situations — from inheritances and deteriorated properties to relocation urgencies and CRIM debts.",
+      "historyP3": "Our direct purchase approach with our own funds eliminates the uncertainty of the traditional process, offering real solutions on timelines that adapt to each client's needs.",
+      "historyImageUrl": "",
+      "missionTitle": "Our Mission",
+      "missionDesc": "To facilitate buying and selling properties in Puerto Rico by offering fast, fair, and transparent solutions that build trust and peace of mind for every client.",
+      "visionTitle": "Our Vision",
+      "visionDesc": "To be the most reliable and efficient real estate company in Puerto Rico, recognized for our commitment to excellence and client satisfaction.",
+      "valuesTitle": "Our Values",
+      "valuesDesc": "Transparency, integrity, efficiency, and empathy guide every interaction with our clients. We believe every property owner deserves respectful treatment and real solutions.",
+      "teamTitle": "Our Team",
+      "teamSubtitle": "Dedicated professionals with years of experience in the Puerto Rico real estate market.",
+      "teamMembers": [
+        {
+          "name": "Carlos Rivera",
+          "title": "General Manager",
+          "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "María Santos",
+          "title": "Sales Director",
+          "photoUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "José Fernández",
+          "title": "Investment Advisor",
+          "photoUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "Ana Rodríguez",
+          "title": "Real Estate Agent",
+          "photoUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "Luis Méndez",
+          "title": "Mortgage Specialist",
+          "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80"
+        },
+        {
+          "name": "Carmen Díaz",
+          "title": "Operations Coordinator",
+          "photoUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=400&q=80"
+        }
+      ]
+    },
+    "catalogPage": {
+      "title": "Property Catalog",
+      "subtitle": "Explore our selection of available properties in Puerto Rico.",
+      "searchPlaceholder": "Search by title, municipality, or type..."
+    }
+  },
+  "global": {
+    "logoUrl": "",
+    "logoUrlFooter": "",
+    "logoUrlLogin": "",
+    "loginTitle": "",
+    "loginSubtitle": "",
+    "loginCta": "",
+    "termsContent": "",
+    "privacyContent": "",
+    "inputFocusRing": "#1e3a5f",
+    "footerColumnsDesktop": 4,
+    "footerColumnsTablet": 2,
+    "footerLinks": [],
+    "typographySettings": {
+      "textAlign": "left",
+      "bodyWeight": 400,
+      "fontFamily": "'Inter', system-ui, sans-serif",
+      "lineHeight": 1.6,
+      "baseFontSize": 16,
+      "headingScale": 1.25,
+      "headingWeight": 700,
+      "letterSpacing": 0
+    },
+    "motionSettings": {
+      "easing": "ease-out",
+      "preset": "standard",
+      "enabled": true,
+      "stagger": 0.08,
+      "duration": 0.45,
+      "scrollReveal": true,
+      "reducedMotion": false
+    },
+    "sectionOverrides": {
+      "heroForm": {
+        "motion": {}
+      }
+    }
+  }
+}
