@@ -276,7 +276,7 @@
       "countPosition": "below",
       "countSeed": 0,
       "countLabel": "propietarios han visto este mensaje",
-      "visible": false,
+      "visible": true,
       "order": 7
     },
     "founder": {
@@ -1191,6 +1191,34 @@
       "heroForm": {
         "motion": {}
       }
-    }
+    },
+    "sectionOrder": [
+      "urgency",
+      "hero",
+      "contactPage",
+      "aboutPage",
+      "catalogPage",
+      "heroForm",
+      "trust",
+      "credentials",
+      "coverage",
+      "closings",
+      "pain",
+      "compare",
+      "video",
+      "process",
+      "founder",
+      "testimonials",
+      "benefits",
+      "faq",
+      "finalCta",
+      "floatingCta",
+      "nav",
+      "footer",
+      "logos",
+      "branding",
+      "loginEditor",
+      "legalPages"
+    ]
   }
 }
