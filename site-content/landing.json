@@ -276,7 +276,7 @@
       "countPosition": "below",
       "countSeed": 0,
       "countLabel": "propietarios han visto este mensaje",
-      "visible": false,
+      "visible": true,
       "order": 7
     },
     "founder": {
