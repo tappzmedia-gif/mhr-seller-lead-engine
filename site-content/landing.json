@@ -2,7 +2,7 @@
   "es": {
     "urgency": {
       "enabled": true,
-      "text": "CO",
+      "text": "COM",
       "cta": "Recibir mi oferta",
       "colorStyle": "gradient",
       "bgColor": "#d97706",
