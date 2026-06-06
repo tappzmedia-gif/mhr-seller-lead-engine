@@ -2,7 +2,7 @@
   "es": {
     "urgency": {
       "enabled": true,
-      "text": "Compramos casas en cash en toda PR · Tu oferta honesta en 24 horas",
+      "text": "COM",
       "cta": "Recibir mi oferta",
       "colorStyle": "gradient",
       "bgColor": "#d97706",
@@ -1187,11 +1187,6 @@
       "scrollReveal": true,
       "reducedMotion": false
     },
-    "sectionOverrides": {
-      "heroForm": {
-        "motion": {}
-      }
-    },
     "sectionOrder": [
       "urgency",
       "hero",
@@ -1219,6 +1214,11 @@
       "branding",
       "loginEditor",
       "legalPages"
-    ]
+    ],
+    "sectionOverrides": {
+      "heroForm": {
+        "motion": {}
+      }
+    }
   }
 }
