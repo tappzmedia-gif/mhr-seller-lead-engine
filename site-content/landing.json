@@ -79,7 +79,8 @@
       "socialProof": "+500",
       "socialProofLabel": "vendedores ayudados en PR",
       "ratingLabel": "4.9/5",
-      "licensed": "Empresa licenciada en Puerto Rico · Cumplimiento CRIM, HUD y RESPA"
+      "licensed": "Empresa licenciada en Puerto Rico · Cumplimiento CRIM, HUD y RESPA",
+      "visible": false
     },
     "trust": {
       "cashValue": "Cash",
@@ -489,7 +490,7 @@
         "href": "/catalogo",
         "label": "Propiedades",
         "order": 1,
-        "visible": true
+        "visible": false
       },
       {
         "key": "about",
