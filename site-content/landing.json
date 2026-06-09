@@ -416,7 +416,7 @@
           "title": "Proceso 100% guiado"
         }
       ],
-      "visible": true,
+      "visible": false,
       "order": 10
     },
     "faq": {
