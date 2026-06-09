@@ -424,6 +424,10 @@
       "subtitle": "Respuestas directas a lo que más preguntan los vendedores.",
       "items": [
         {
+          "question": "¿Que tipo de propiedad compran?",
+          "answer": "Compramos casas, apartamentos, multifamiliar, edificios, AirBNB's y hoteles. "
+        },
+        {
           "answer": "Primero, uno de nuestros corredores de bienes raíces le atiende en una llamada. Luego se coordina una visita a la propiedad y se hace una oferta cash al instante. De llegar a un acuerdo, compramos la propiedad cash.",
           "question": "¿Cómo es el proceso y cómo determinan la oferta?"
         },
@@ -450,10 +454,6 @@
         {
           "answer": "Si. Te ayudamos trabajando con el banco para solucionarte la situación. ",
           "question": "¿Compran aunque la propiedad este en riesgo de ejecución?"
-        },
-        {
-          "question": "¿Que tipo de propiedad compran?",
-          "answer": "Compramos casas, apartamentos, multifamiliar, edificios, AirBNB's y hoteles. "
         }
       ],
       "visible": true,
