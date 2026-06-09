@@ -255,7 +255,7 @@
           "numberColor": "#1e40af"
         }
       ],
-      "visible": false,
+      "visible": true,
       "order": 6
     },
     "video": {
