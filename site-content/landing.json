@@ -489,7 +489,7 @@
         "href": "/catalogo",
         "label": "Propiedades",
         "order": 1,
-        "visible": false
+        "visible": true
       },
       {
         "key": "about",
