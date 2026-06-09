@@ -60,7 +60,7 @@
           "theirs": "1 de cada 4 ventas se cae"
         }
       ],
-      "cta": "Recibir mi oferta ah",
+      "cta": "Recibir mi oferta ahora",
       "visible": true,
       "order": 5
     },
@@ -237,7 +237,7 @@
     "process": {
       "title": "Un proceso diseñado para tu tranquilidad",
       "subtitle": "Desde tu primer mensaje hasta el cierre — simple, transparente y siempre en tu horario.",
-      "cta": "Comenzar la evaluación — es gratis",
+      "cta": "Comenzar la evaluación — es grati",
       "steps": [
         {
           "desc": "Llena un breve formulario de 9 pasos describiendo la propiedad y tu situación.",
