@@ -448,8 +448,12 @@
           "question": "¿Me ayudan con el proceso de herencia?"
         },
         {
-          "answer": "Si. Te ayudamos trabajando con el banco para solucionarte la situació",
+          "answer": "Si. Te ayudamos trabajando con el banco para solucionarte la situación. ",
           "question": "Compran aunque la propiedad este en riesgo de ejecución?"
+        },
+        {
+          "question": "",
+          "answer": ""
         }
       ],
       "visible": true,
