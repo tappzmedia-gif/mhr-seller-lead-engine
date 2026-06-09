@@ -237,7 +237,7 @@
     "process": {
       "title": "Un proceso diseñado para tu tranquilidad",
       "subtitle": "Desde tu primer mensaje hasta el cierre — simple, transparente y siempre en tu horario.",
-      "cta": "Comenzar la evaluación ",
+      "cta": "Comenzar la evaluación",
       "steps": [
         {
           "desc": "Llena un breve formulario de 9 pasos describiendo la propiedad y tu situación.",
@@ -416,7 +416,7 @@
           "title": "Proceso 100% guiado"
         }
       ],
-      "visible": false,
+      "visible": true,
       "order": 10
     },
     "faq": {
