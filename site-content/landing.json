@@ -15,7 +15,7 @@
       "phonePlaceholder": "Tu número de teléfono",
       "cta": "Recibir mi oferta",
       "disclaimer": "Al enviar aceptas que el equipo de My House Realty se comunique contigo.",
-      "visible": true
+      "visible": false
     },
     "compare": {
       "eyebrow": "La diferencia es clara",
